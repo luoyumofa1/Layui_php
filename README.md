@@ -22,9 +22,9 @@
 
 ## :ship:项目部署
 
-1. 下载wamp64集成环境，然后再其www文件夹下新建一个文件夹，名称随意，如layui_php;
-2. 将本项目所有文件放入上述layui_php文件夹下;
-3. 在本地配置mysql数据库，项目test2.sql有示例sql语句，将其导入test2数据库,然后在其中mysql_connect.php文件中改变数据库来改变数据库连接设置即可使用。
+1. 下载wamp64集成环境，然后再其www文件夹下下载本项目Layui_php;
+2. 在本地配置mysql数据库，项目test2.sql有示例sql语句，将其导入test2数据库,然后在其中mysql_connect.php文件中改变数据库来改变数据库连接设置即可使用;
+3. 在浏览器中输入localhost/Layui_php即可进入该系统登录界面。
 
 ![](./img/连接.png)
 
